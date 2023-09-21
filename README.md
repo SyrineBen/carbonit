@@ -24,7 +24,7 @@ Before running the application, you need to have the following software installe
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/treasure-hunt-game.git
+   git clone https://github.com/SyrineBen/carbonit
 
 2. maven install 
 
@@ -32,7 +32,7 @@ Before running the application, you need to have the following software installe
 
 To run the Treasure Hunt Game, use the following command:
  ```bash
-   java com.carbonit.TreasureHunt.App
+   java com.carbonit.treasure.App
    ```
 The application will prompt you to enter the input and output file names.
 
