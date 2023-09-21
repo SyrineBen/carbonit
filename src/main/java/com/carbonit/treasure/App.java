@@ -1,6 +1,5 @@
 package com.carbonit.treasure;
 
-import com.carbonit.treasure.file.FileReader;
 import com.carbonit.treasure.file.FileWriter;
 import com.carbonit.treasure.map.Map;
 import com.carbonit.treasure.map.MapService;
