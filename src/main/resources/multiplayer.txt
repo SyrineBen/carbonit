@@ -1,0 +1,8 @@
+# Commentaire
+C - 5 - 5
+M - 1 - 2
+M - 2 - 2
+T - 3 - 3 - 2
+T - 4 - 4 - 1
+A - Lara - 1 - 1 - S - AADADAGGA
+A - Indiana - 2 - 2 - N - DDAAAGA
